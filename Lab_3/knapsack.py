@@ -103,8 +103,8 @@ def dynamic_programming_knapsack(p, w, m):
     return dp[n][m]
 
 
-weights= [4, 2, 1, 3]
-profit= [15,6,3,6]
-capacity = 6
-maximum= dynamic_programming_knapsack(profit, weights, capacity)
-print("Maximum profit is", maximum)
+#weights= [4, 2, 1, 3]
+#profit= [15,6,3,6]
+#capacity = 6
+#maximum= dynamic_programming_knapsack(profit, weights, capacity)
+#print("Maximum profit is", maximum)
